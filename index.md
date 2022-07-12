@@ -1,3 +1,5 @@
+# WRITING RESUME
+
 ## 6 Years in Business, 3 in Writing
 
 I spent six to seven years in the corporate world before the pandemic happened and well, I had no choice. Once the pandemic started I had to drop all corporate positions and transition to Freelancing or Contract writing work and that's where I found my passion.

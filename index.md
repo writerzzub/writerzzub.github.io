@@ -38,3 +38,14 @@ I was also a UX Writer for the following:
 - [ICTS.io](https://icts.io/)
 
 Oh yeah, you can also find me on [Muck Rack](https://muckrack.com/urian-buenconsejo/articles) on top of my other websites... 
+
+## Contact Info
+Skype:
+- live:.cid.1b93e572275dbe82
+Telegram:
+- @Uribuen
+Email:
+- writer.buenconsejo@gmail.com
+LinkedIn:
+- [Urian Buenconsejo](https://www.linkedin.com/in/urian-buenconsejo-097812150/)
+

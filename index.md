@@ -15,7 +15,7 @@ In this page you'll find the links to my work on different topiocs from tech to 
 ### TOPICS
 - #### Tech
 - #### [Crypto](cryptoexperience.github.io)
-- #### Finance
+- #### [Finance](financeexperience.github.io)
 - #### Art
 - #### Life
 - #### Everything Else

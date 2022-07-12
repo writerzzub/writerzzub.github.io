@@ -11,11 +11,11 @@ In this page you'll find the links to my work on different topiocs from tech to 
 - [x] why you should hire me
 - [x] how I might be able to help you!
 
-### EXPERIENCE
+### [EXPERIENCE](myexperience.github.io)
 ### TOPICS
-#### Tech
-#### Finance
-#### Art
-#### Life
-####
+- #### Tech
+- #### Finance
+- #### Art
+- #### Life
+- #### Everything Else
 ### WEBSITES/PROJECTS/APPS

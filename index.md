@@ -32,6 +32,7 @@ In this page you'll find the links to my work on different topics from tech to f
 - [10best](https://www.10best.cc/)
 - [Reviewer.today](https://www.reviewer.today/)
 - [CountryThangDaily](https://www.countrythangdaily.com/)
+- [ThreadBasket](https://threadbasket.com/blog/)
 
 I was also a UX Writer for the following:
 - [Izitext.io](https://izitext.io/)

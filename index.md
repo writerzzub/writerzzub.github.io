@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## 6 Years in Business, 3 in Writing
 
-You can use the [editor on GitHub](https://github.com/writerzzub/writerzzub.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I spent six to seven years in a corporate position before the pandemic happened and well, I had no choice. Once the pandemic started I had to drop all corporate positions and transition to Freelancing or Contract writing work and that's where I found my passion.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In this page you'll find the links to my work on different topiocs from tech to finance and beyond so watch out for...
 
-### Markdown
+- [ ] boring info
+- [ ] things you don't care about
+- [ ] generic blah blah blah
+- [x] entertaining portfolio
+- [x] why you should hire me
+- [x] how I might be able to help you!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/writerzzub/writerzzub.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### EXPERIENCE
+### TOPICS
+#### Tech
+#### Finance
+#### Art
+#### Life
+####
+### WEBSITES/PROJECTS/APPS

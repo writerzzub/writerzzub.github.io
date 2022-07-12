@@ -13,12 +13,10 @@ In this page you'll find the links to my work on different topics from tech to f
 
 ### [EXPERIENCE](myexperience.github.io)
 ### TOPICS
-- #### Tech
+- #### [Tech](techexperience.github.io)
 - #### [Crypto](cryptoexperience.github.io)
 - #### [Finance](financeexperience.github.io)
-- #### Art
 - #### Life
-- #### Everything Else
 
 ### WEBSITES/PROJECTS/APPS
 - [TechTimes](https://www.techtimes.com/reporters/urian-b.htm)

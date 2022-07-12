@@ -21,3 +21,20 @@ In this page you'll find the links to my work on different topiocs from tech to 
 - #### Everything Else
 
 ### WEBSITES/PROJECTS/APPS
+- [TechTimes](https://www.techtimes.com/reporters/urian-b.htm)
+- [iTechPost](https://www.itechpost.com/reporters/urian-buenconsejo)
+- [TechVisibility](https://www.techvisibility.com/author/uri)
+- [FitSmallBusiness](https://fitsmallbusiness.com/author/urianfitsmallbusiness-com/)
+- [Blabberiffic](https://www.blabberific.com/authors/urian.html)
+- [MrGadget](https://mrgadget.com.au/tech-news/)
+- [Nspirement](https://www.nspirement.com/author/urian-b)
+- [ScienceTimes](https://www.sciencetimes.com/reporters/urian-b)
+- [10best](https://www.10best.cc/)
+- [Reviewer.today](https://www.reviewer.today/)
+- [CountryThangDaily](https://www.countrythangdaily.com/)
+
+I was also a UX Writer for the following:
+- [Izitext.io](https://izitext.io/)
+- [ICTS.io](https://icts.io/)
+
+Oh yeah, you can also find me on [Muck Rack](https://muckrack.com/urian-buenconsejo/articles) on top of my other websites... 

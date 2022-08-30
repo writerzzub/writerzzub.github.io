@@ -2,16 +2,10 @@
 
 ## 6 Years in Business, 3 in Writing
 
-I spent six to seven years in the corporate world before the pandemic happened and well, I had no choice. Once the pandemic started I had to drop all corporate positions and transition to Freelancing or Contract writing work and that's where I found my passion.
+I have six years of corporate experience with an intense focus on Marketing. The pandemic helped me transition into a copywriter, blog writer, news writer, journalist, UX writer, and more.
 
-In this page you'll find the links to my work on different topics from tech to finance and beyond so watch out for...
+In this page you'll find the links to my work on different topics from tech to finance and more.
 
-- [ ] boring info
-- [ ] things you don't care about
-- [ ] generic blah blah blah
-- [x] ENTERTAINING PORTFOLIO
-- [x] WHY YOU SHOULD HIRE ME
-- [x] HOW I CAN HELP YOU!
 
 ### [EXPERIENCE](myexperience.github.io)
 ### TOPICS
@@ -21,7 +15,7 @@ In this page you'll find the links to my work on different topics from tech to f
 - #### [Life](lifeexperience.github.io)
 
 ### WEBSITES/PROJECTS/APPS
-- [TechTimes](https://www.techtimes.com/reporters/urian-b.htm)
+- [TechTimes](https://www.techtimes.com/reporters/urian-b)
 - [iTechPost](https://www.itechpost.com/reporters/urian-buenconsejo)
 - [TechVisibility](https://www.techvisibility.com/author/uri)
 - [FitSmallBusiness](https://fitsmallbusiness.com/author/urianfitsmallbusiness-com/)
@@ -33,6 +27,7 @@ In this page you'll find the links to my work on different topics from tech to f
 - [Reviewer.today](https://www.reviewer.today/)
 - [CountryThangDaily](https://www.countrythangdaily.com/)
 - [ThreadBasket](https://threadbasket.com/blog/)
+- [Nspirement](https://www.nspirement.com/author/mike-w)
 
 I was also a UX Writer for the following:
 - [Izitext.io](https://izitext.io/)

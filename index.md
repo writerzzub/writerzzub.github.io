@@ -33,6 +33,13 @@ I was also a UX Writer for the following:
 - [Izitext.io](https://izitext.io/)
 - [ICTS.io](https://icts.io/)
 
+### PERSONAL SOCIAL MEDIA SITES
+- [Kenaniah Farm](https://www.facebook.com/KenaniahFarm)
+- [Creative Movement](https://www.facebook.com/CreativeMovementPH)
+- [Zen Writer's Hub](https://www.facebook.com/ZenWritersHub/?ref=pages_you_manage)
+
+(Other client sites/pages cannot be disclosed due to NDA)
+
 Oh yeah, you can also find me on [Muck Rack](https://muckrack.com/urian-buenconsejo/articles) on top of my other websites... 
 
 ## Contact Info

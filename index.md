@@ -9,6 +9,7 @@ If you want a writer with...
 - crypto exposure
 - flexible expertise
 - and of course... HUMOR
+
 ... then I'm your guy!
 
 Here's what I've been up to...

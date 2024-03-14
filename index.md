@@ -1,11 +1,17 @@
 # WRITING RESUME
 
-## 6 Years in Business, 3 in Writing
+## Traversing the world of tech and finance as a total badass!
 
-I have six years of corporate experience with an intense focus on Marketing. The pandemic helped me transition into a copywriter, blog writer, news writer, journalist, UX writer, and more.
+Didn't quite make it as an entrepreneur but definitely killing it as a writer.
 
-In this page you'll find the links to my work on different topics from tech to finance and more.
+If you want a writer with...
+- journalistic experience
+- crypto exposure
+- flexible expertise
+- and of course... HUMOR
+... then I'm your guy!
 
+Here's what I've been up to...
 
 ### [EXPERIENCE](myexperience.github.io)
 ### TOPICS
@@ -33,7 +39,7 @@ I was also a UX Writer for the following:
 - [Izitext.io](https://izitext.io/)
 - [ICTS.io](https://icts.io/)
 
-### PERSONAL SOCIAL MEDIA SITES
+### SOCIAL MEDIA SITES
 - [Kenaniah Farm](https://www.facebook.com/KenaniahFarm)
 - [Creative Movement](https://www.facebook.com/CreativeMovementPH)
 - [Zen Writer's Hub](https://www.facebook.com/ZenWritersHub/?ref=pages_you_manage)
@@ -43,9 +49,6 @@ I was also a UX Writer for the following:
 Oh yeah, you can also find me on [Muck Rack](https://muckrack.com/urian-buenconsejo/articles) on top of my other websites... 
 
 ## Contact Info
-Skype:
-- live:.cid.1b93e572275dbe82
-
 Telegram:
 - @Uribuen
 

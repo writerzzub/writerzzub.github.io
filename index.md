@@ -26,17 +26,14 @@ Here's what I've been up to...
 - [TeloNews](https://telonews.medium.com/)
 - [TechTimes](https://www.techtimes.com/reporters/urian-b)
 - [iTechPost](https://www.itechpost.com/reporters/urian-buenconsejo)
-- [TechVisibility](https://www.techvisibility.com/author/uri)
 - [FitSmallBusiness](https://fitsmallbusiness.com/author/urianfitsmallbusiness-com/)
 - [Blabberiffic](https://www.blabberific.com/authors/urian.html)
 - [MrGadget](https://mrgadget.com.au/tech-news/)
-- [Nspirement](https://www.nspirement.com/author/urian-b)
 - [ScienceTimes](https://www.sciencetimes.com/reporters/urian-b)
 - [10best](https://www.10best.cc/)
 - [Reviewer.today](https://www.reviewer.today/)
 - [CountryThangDaily](https://www.countrythangdaily.com/)
 - [ThreadBasket](https://threadbasket.com/blog/)
-- [Nspirement](https://www.nspirement.com/author/mike-w)
 
 I was also a UX Writer for the following:
 - [Izitext.io](https://izitext.io/)

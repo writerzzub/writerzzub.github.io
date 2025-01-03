@@ -17,8 +17,8 @@ Here's what I've been up to...
 
 ### [EXPERIENCE - COMPLETE CV](myexperience.github.io)
 ### TOPICS
-- #### [Tech](techexperience.github.io)
 - #### [Crypto](cryptoexperience.github.io)
+- #### [Tech](techexperience.github.io)
 - #### [Finance](financeexperience.github.io)
 - #### [Life](lifeexperience.github.io)
 

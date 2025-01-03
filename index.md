@@ -1,16 +1,17 @@
-# WRITING RESUME
+# URIAN'S WRITING RESUME
 
 ## Traversing the world of tech and finance as a total badass!
 
-Didn't quite make it as an entrepreneur but definitely killing it as a writer.
+I've worked for some of the gnarliest tech/finance/crypto companies, including one that contributes to NASDAQ and was mentioned by Elon Musk, and one that runs the largest crypto news Telegram channel with over 1 million subscribers, [Telo News](https://linktr.ee/telonews). I've also been cited as a reference for #2 crypto Ethereum founder Vitalik Buterin's [Wikipedia page](https://en.wikipedia.org/wiki/Vitalik_Buterin).
 
 If you want a writer with...
 - journalistic experience
-- crypto exposure
+- crypto/fintech/finance exposure
 - flexible expertise
 - and of course... HUMOR
 
 ... then I'm your guy!
+
 
 Here's what I've been up to...
 
@@ -22,6 +23,7 @@ Here's what I've been up to...
 - #### [Life](lifeexperience.github.io)
 
 ### WEBSITES/PROJECTS/APPS
+- [TeloNews](https://telonews.medium.com/)
 - [TechTimes](https://www.techtimes.com/reporters/urian-b)
 - [iTechPost](https://www.itechpost.com/reporters/urian-buenconsejo)
 - [TechVisibility](https://www.techvisibility.com/author/uri)
@@ -41,6 +43,8 @@ I was also a UX Writer for the following:
 - [ICTS.io](https://icts.io/)
 
 ### SOCIAL MEDIA SITES
+- [Telo News TG](https://t.me/telonews)
+- [Telo News X](https://x.com/Telo_Official)
 - [Kenaniah Farm](https://www.facebook.com/KenaniahFarm)
 - [Creative Movement](https://www.facebook.com/CreativeMovementPH)
 - [Zen Writer's Hub](https://www.facebook.com/ZenWritersHub/?ref=pages_you_manage)
